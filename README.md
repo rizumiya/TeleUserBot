@@ -1,3 +1,4 @@
 ## Telegram User Bot
 
-Turn your account into bot
+Deploy di streamlit.io
+> main adalah Home.py
